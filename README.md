@@ -4,12 +4,11 @@
      Este repositorio contiene el código fuente de un e-commerce para el restaurante de comida rápida Turbo Sanguches. El objetivo principal de este proyecto es ofrecer una plataforma en línea donde los usuarios puedan realizar pedidos de manera sencilla y eficiente, visualizando los productos del menú, agregándolos al carrito y completando el proceso de compra.
 
      El proyecto fue desarrollado por un grupo de trabajo como parte de un proyecto de aprendizaje de tecnologías web, y utiliza una combinación de HTML, CSS, JavaScript, PHP y una base de datos para gestionar el contenido y los pedidos. Además, como parte de la mejora continua del proyecto, se realizó un esfuerzo por migrar la página a React, manteniendo la funcionalidad principal de la plataforma.
-Tecnologías utilizadas
-##  HTML: Estructura básica de la página web.
+
 ### Proyecto Turbo Sanguches - E-commerce Web
 Descripción:
 
-    Este repositorio contiene el código fuente de un e-commerce para el restaurante de comida rápida Turbo Sanguches. El objetivo principal de este proyecto es ofrecer una plataforma en línea donde los usuarios puedan realizar pedidos de manera sencilla y eficiente, visualizando los productos del menú, agregándolos al carrito y completando el proceso de compra.
+    Este repositorio contiene el código fuentDesarrollador Frontende de un e-commerce para el restaurante de comida rápida Turbo Sanguches. El objetivo principal de este proyecto es ofrecer una plataforma en línea donde los usuarios puedan realizar pedidos de manera sencilla y eficiente, visualizando los productos del menú, agregándolos al carrito y completando el proceso de compra.
 
     El proyecto fue desarrollado por un grupo de trabajo como parte de un proyecto de aprendizaje de tecnologías web, y utiliza una combinación de HTML, CSS, JavaScript, PHP y una base de datos para gestionar el contenido y los pedidos. Además, como parte de la mejora continua del proyecto, se realizó un esfuerzo por migrar la página a React, manteniendo la funcionalidad principal de la plataforma.
 Tecnologías utilizadas
